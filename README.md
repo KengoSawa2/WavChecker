@@ -3,8 +3,6 @@ Checker for the video industry that supports QT/MXF
 
 ![WavChecker_ok](https://github.com/KengoSawa2/WavChecker/blob/main/ss/wavchecker_ok.png "WavChecker_ok")
 
-![WavChecker_ng](https://github.com/KengoSawa2/WavChecker/blob/main/ss/wavchecker_ng.png "WavChecker_ng")
-
 ## Overview
 WavChecker is a wav comparison and diff tool for post-production.
 
