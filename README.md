@@ -25,13 +25,13 @@ Complete binary check is performed. No misjudgment will occur except for bugs.
 Checking process is very fast, because it does not perform any wav decoding process,  
 so it can check in a few minutes even if the length of the file is longer than 2 hours.  
 
-##Support Formats
+##　Support Formats
 QuickTime(QT) with PCM wav.
 MXF with PCM wav.
 wav with PCM only,16bit,24bit,32bit,LittleEndian,BigEndian,44100hz,48khz,96khz
 wav64
 
-##Support OS
+##　Support OS
 macOS(Windows is not test)
 
 ## License
