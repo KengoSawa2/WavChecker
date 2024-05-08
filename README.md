@@ -8,8 +8,6 @@ WavChecker is a wav comparison and diff tool for post-production.
 
 ##Usage and fucntion
 
-
-
 - Checks if the wav attached to the specified QuickTime(QT) or MXF file is "same wavdata".  
 - Comparison between wavs is also possible.
 - Comparison between QT and MXF.
@@ -48,3 +46,6 @@ xxhash
 timecode
 wave-bwf-rf64
 PySide2
+
+### Error(differ detected) example
+![WavChecker_error](https://github.com/KengoSawa2/WavChecker/blob/main/ss/wavchecker_error.png "WavChecker_error")
