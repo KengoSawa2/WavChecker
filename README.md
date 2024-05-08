@@ -8,22 +8,22 @@ WavChecker is a wav comparison and diff tool for post-production.
 
 
 
-- Checks if the wav attached to the specified QuickTime(QT) or MXF file and the specified wav data are exactly the same.
+- Checks if the wav attached to the specified QuickTime(QT) or MXF file is "same wavdata".  
 - Comparison between wavs is also possible.
 - Comparison between QT and MXF.
 - Silence check mode for phase inversion check assistance
 
-There are several modes for checking, though,
-All scenarios are designed for [L'espaceVision](https://www.lespace.co.jp/) post-production workflow.
+There are several modes for checking, though,  
+All scenarios are designed for [L'espaceVision](https://www.lespace.co.jp/) post-production workflow.  
 This tool is in-house tool.
 Try it out and see if it has the features you need:)
 
 ## wavChecker Process features
-If there is a difference, it displays the difference in each frame based on TC.
-This is not　"wave inversion check."
-Complete binary check is performed. No misjudgment will occur except for bugs.
-Checking process is very fast, because it does not perform any wav decoding process,
-so it can check in a few minutes even if the length of the file is longer than 2 hours.
+If there is a difference, it displays the difference in each frame based on TC.  
+This is not　"wave inversion check."  
+Complete binary check is performed. No misjudgment will occur except for bugs.  
+Checking process is very fast, because it does not perform any wav decoding process,  
+so it can check in a few minutes even if the length of the file is longer than 2 hours.  
 
 ##Support Formats
 QuickTime(QT) with PCM wav.
