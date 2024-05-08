@@ -1,5 +1,5 @@
 # WavChecker
-Checker for the video industry that supports QT/MXF
+　wav data comparison check for the video industry that supports QT/MXF/wav(PCM only)
 
 ![WavChecker_ok](https://github.com/KengoSawa2/WavChecker/blob/main/ss/wavchecker_ok.png "WavChecker_ok")
 
