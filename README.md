@@ -25,14 +25,14 @@ Complete binary check is performed. No misjudgment will occur except for bugs.
 Checking process is very fast, because it does not perform any wav decoding process,  
 so it can check in a few minutes even if the length of the file is longer than 2 hours.  
 
-##　Support Formats
-QuickTime(QT) with PCM wav.
-MXF with PCM wav.
-wav with PCM only,16bit,24bit,32bit,LittleEndian,BigEndian,44100hz,48khz,96khz
-wav64
+## Support Formats
+QuickTime(QT) with PCM wav.  
+MXF with PCM wav.  
+wav with PCM. 16bit,24bit,32bit,LittleEndian,BigEndian,44100hz,48khz,96khz
+wav64  
 
-##　Support OS
-macOS(Windows is not test)
+## Support OS
+macOS(Windows doesn't test)
 
 ## License
 [GPL v3.0]
@@ -42,10 +42,10 @@ download ffmpeg and ffprobe　commands at WavChecker.py folder
 https://ffmpeg.org/
 
 ### required Python Library
-xxhash
-timecode
-wave-bwf-rf64
-PySide2
+xxhash  
+timecode  
+wave-bwf-rf64  
+PySide2  
 
 ### Error(differ detected) example
 ![WavChecker_error](https://github.com/KengoSawa2/WavChecker/blob/main/ss/wavchecker_error.png "WavChecker_error")
