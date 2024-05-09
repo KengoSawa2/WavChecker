@@ -28,7 +28,7 @@ so it can check in a few minutes even if the length of the file is longer than 2
 ## Support Formats
 QuickTime(QT) with PCM wav.  
 MXF with PCM wav.  
-wav with PCM. 16bit,24bit,32bit,LittleEndian,BigEndian,44100hz,48khz,96khz
+wav with PCM. 16bit,24bit,32bit,LittleEndian,BigEndian,44100hz,48khz,96khz  
 wav64  
 
 ## Support OS
