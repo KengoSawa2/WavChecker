@@ -6,7 +6,7 @@
 ## Overview
 WavChecker is a wav comparison and diff tool for post-production.
 
-##Usage and fucntion
+## Usage and fucntion
 
 - Checks if the wav attached to the specified QuickTime(QT) or MXF file is "same wavdata".  
 - Comparison between wavs is also possible.
