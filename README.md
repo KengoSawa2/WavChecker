@@ -18,7 +18,7 @@ All scenarios are designed for [L'espaceVision](https://www.lespace.co.jp/) post
 This tool is in-house tool.
 Try it out and see if it has the features you need:)
 
-## wavChecker Process features
+## wavChecker features
 If there is a difference, it displays the difference in each frame based on TC.  
 This is not　"wave inversion check."  
 Complete binary check is performed. No misjudgment will occur except for bugs.  
